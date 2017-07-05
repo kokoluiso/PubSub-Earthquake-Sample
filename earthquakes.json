@@ -1,0 +1,261 @@
+{
+	"type": "FeatureCollection",
+	"metadata": {
+		"generated": 1498607521000,
+		"url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+		"title": "USGS All Earthquakes, Past Hour",
+		"status": 200,
+		"api": "1.5.8",
+		"count": 6
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"mag": 1.59,
+				"place": "5km NW of Boron, CA",
+				"time": 1498605433580,
+				"updated": 1498606802760,
+				"tz": -480,
+				"url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci37919576",
+				"detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci37919576.geojson",
+				"felt": null,
+				"cdi": null,
+				"mmi": null,
+				"alert": null,
+				"status": "reviewed",
+				"tsunami": 0,
+				"sig": 39,
+				"net": "ci",
+				"code": "37919576",
+				"ids": ",ci37919576,",
+				"sources": ",ci,",
+				"types": ",geoserve,nearby-cities,origin,phase-data,",
+				"nst": 32,
+				"dmin": 0.09959,
+				"rms": 0.18,
+				"gap": 57,
+				"magType": "ml",
+				"type": "quarry blast",
+				"title": "M 1.6 Quarry Blast - 5km NW of Boron, CA"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.6836667,
+					35.0336667,
+					-0.82
+				]
+			},
+			"id": "ci37919576"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"mag": 1.6,
+				"place": "105km WSW of Arctic Village, Alaska",
+				"time": 1498605364097,
+				"updated": 1498605664346,
+				"tz": -540,
+				"url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak16239904",
+				"detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak16239904.geojson",
+				"felt": null,
+				"cdi": null,
+				"mmi": null,
+				"alert": null,
+				"status": "automatic",
+				"tsunami": 0,
+				"sig": 39,
+				"net": "ak",
+				"code": "16239904",
+				"ids": ",ak16239904,",
+				"sources": ",ak,",
+				"types": ",geoserve,origin,",
+				"nst": null,
+				"dmin": null,
+				"rms": 0.74,
+				"gap": null,
+				"magType": "ml",
+				"type": "earthquake",
+				"title": "M 1.6 - 105km WSW of Arctic Village, Alaska"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-147.6987,
+					67.6501,
+					1
+				]
+			},
+			"id": "ak16239904"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"mag": 0.64,
+				"place": "7km ENE of Palomar Observatory, CA",
+				"time": 1498605242590,
+				"updated": 1498606634521,
+				"tz": -480,
+				"url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci37919568",
+				"detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci37919568.geojson",
+				"felt": null,
+				"cdi": null,
+				"mmi": null,
+				"alert": null,
+				"status": "reviewed",
+				"tsunami": 0,
+				"sig": 6,
+				"net": "ci",
+				"code": "37919568",
+				"ids": ",ci37919568,",
+				"sources": ",ci,",
+				"types": ",geoserve,nearby-cities,origin,phase-data,",
+				"nst": 19,
+				"dmin": 0.06539,
+				"rms": 0.09,
+				"gap": 91,
+				"magType": "ml",
+				"type": "earthquake",
+				"title": "M 0.6 - 7km ENE of Palomar Observatory, CA"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.7991667,
+					33.3918333,
+					12.16
+				]
+			},
+			"id": "ci37919568"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"mag": 0.8,
+				"place": "21km NW of Truckee, California",
+				"time": 1498604823509,
+				"updated": 1498605449548,
+				"tz": -480,
+				"url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00593838",
+				"detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00593838.geojson",
+				"felt": null,
+				"cdi": null,
+				"mmi": null,
+				"alert": null,
+				"status": "reviewed",
+				"tsunami": 0,
+				"sig": 10,
+				"net": "nn",
+				"code": "00593838",
+				"ids": ",nn00593838,",
+				"sources": ",nn,",
+				"types": ",geoserve,origin,phase-data,",
+				"nst": 15,
+				"dmin": 0.12,
+				"rms": 0.1132,
+				"gap": 92.81,
+				"magType": "ml",
+				"type": "earthquake",
+				"title": "M 0.8 - 21km NW of Truckee, California"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.3534,
+					39.4683,
+					4.3
+				]
+			},
+			"id": "nn00593838"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"mag": 1.34,
+				"place": "5km SE of Palermo, California",
+				"time": 1498604686780,
+				"updated": 1498605121989,
+				"tz": -480,
+				"url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc72822421",
+				"detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc72822421.geojson",
+				"felt": null,
+				"cdi": null,
+				"mmi": null,
+				"alert": null,
+				"status": "automatic",
+				"tsunami": 0,
+				"sig": 28,
+				"net": "nc",
+				"code": "72822421",
+				"ids": ",nc72822421,",
+				"sources": ",nc,",
+				"types": ",geoserve,nearby-cities,origin,phase-data,scitech-link,",
+				"nst": 4,
+				"dmin": 0.05232,
+				"rms": 0,
+				"gap": 178,
+				"magType": "md",
+				"type": "earthquake",
+				"title": "M 1.3 - 5km SE of Palermo, California"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.4871674,
+					39.401001,
+					23.8
+				]
+			},
+			"id": "nc72822421"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"mag": 0.41,
+				"place": "23km ESE of Anza, CA",
+				"time": 1498603959110,
+				"updated": 1498605543401,
+				"tz": -480,
+				"url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci37919544",
+				"detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci37919544.geojson",
+				"felt": null,
+				"cdi": null,
+				"mmi": null,
+				"alert": null,
+				"status": "reviewed",
+				"tsunami": 0,
+				"sig": 3,
+				"net": "ci",
+				"code": "37919544",
+				"ids": ",ci37919544,",
+				"sources": ",ci,",
+				"types": ",geoserve,nearby-cities,origin,phase-data,",
+				"nst": 14,
+				"dmin": 0.1105,
+				"rms": 0.07,
+				"gap": 152,
+				"magType": "ml",
+				"type": "earthquake",
+				"title": "M 0.4 - 23km ESE of Anza, CA"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.4456667,
+					33.4728333,
+					12.21
+				]
+			},
+			"id": "ci37919544"
+		}
+	],
+	"bbox": [
+		-147.6987,
+		33.3918333,
+		-0.82,
+		-116.4456667,
+		67.6501,
+		23.8
+	]
+}
